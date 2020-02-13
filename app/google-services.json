@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200902018328",
+    "firebase_url": "https://medokoa-d88c2.firebaseio.com",
+    "project_id": "medokoa-d88c2",
+    "storage_bucket": "medokoa-d88c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200902018328:android:d379d53be8e471fb4f0a6d",
+        "android_client_info": {
+          "package_name": "com.med.okoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200902018328-92arvt1e613v2k9dj22ftbhr4d01jrin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.med.okoa",
+            "certificate_hash": "d34415fac0b2878b20c7102452b12901f7fc1ae8"
+          }
+        },
+        {
+          "client_id": "200902018328-h8jvgsc6e3vj6ofvm55icd6ljl5807jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcCmNVgitA2_hBSvORF0M4ANg2ci-WV2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200902018328-h8jvgsc6e3vj6ofvm55icd6ljl5807jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
