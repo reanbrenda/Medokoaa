@@ -1,4 +1,4 @@
-package com.med.okoa;
+package com.okoamed.app;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package com.med.okoa;
+package com.okoamed.app;
 
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;

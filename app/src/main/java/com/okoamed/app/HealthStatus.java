@@ -1,4 +1,4 @@
-package com.med.okoa;
+package com.okoamed.app;
 
 public class HealthStatus {
     private String height;

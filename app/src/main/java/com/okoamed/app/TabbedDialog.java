@@ -1,4 +1,4 @@
-package com.med.okoa;
+package com.okoamed.app;
 
 import android.os.Bundle;
 import androidx.annotation.Nullable;

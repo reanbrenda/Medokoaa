@@ -4,7 +4,7 @@ apply plugin: 'com.google.gms.google-services'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.med.okoa"
+        applicationId "com.okoamed.app"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1

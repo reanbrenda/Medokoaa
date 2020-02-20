@@ -1,4 +1,4 @@
-package com.med.okoa;
+package com.okoamed.app;
 
 import android.content.Context;
 import androidx.test.InstrumentationRegistry;
